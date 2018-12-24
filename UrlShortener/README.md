@@ -14,7 +14,7 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 
 #### Usage:
 
-[this_project_url]/api/shorturl/3
+https://rebel-operation.glitch.me/api/shorturl/0
 
 #### Will redirect to:
 
