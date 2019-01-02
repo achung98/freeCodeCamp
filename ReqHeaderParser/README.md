@@ -3,6 +3,8 @@
 ### User stories:
 1. I can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for my device.
 
+Project link: https://plum-whitefish.glitch.me
+
 #### Example usage:
 * https://plum-whitefish.glitch.me/api/whoami
 
